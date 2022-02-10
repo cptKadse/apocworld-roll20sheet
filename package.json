@@ -4,7 +4,7 @@
     "core-js": "^3.6.4",
     "jstransformer": "^1.0.0",
     "jstransformer-babel": "^2.1.0",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "pug": "^2.0.4"
   }
 }
